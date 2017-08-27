@@ -26,10 +26,6 @@ Code will be incorportated into the FAANG-IGNB base after:
 
 After contributing, contact us and we will add your info here!
 
-Contributors
-------------
-After pull requests have been merged, please contact one of the repository admins to be added to the list:
-- [Rob Schaefer](http://twitter.com/CSciBio)
 
 Software and Content Licensing
 ------------------------------
