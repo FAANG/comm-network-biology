@@ -41,6 +41,6 @@ All code and software published in the repository is released under the Apache 2
 Code Of Conduct
 ---------------
 We expect users to be excellent to each other as well as to provide supportive 
-and engaging conversations. LocusPocus shares the same code of conduct
+and engaging conversations. The FNB group shares the same code of conduct
 as the [Mozilla Science Lab](https://www.mozillascience.org/code-of-conduct), 
 follow the link for specific expectations :) 
